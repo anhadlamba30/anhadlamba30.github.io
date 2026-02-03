@@ -1,4 +1,9 @@
-# 🚀 Anhad Lamba  
+---
+title: ""
+layout: default
+---
+
+# 🚀 Anhad Lamba
 **AI Full‑Stack Developer** • *Toronto, ON*  
 
 > “AI Fullstack Developer with a strong passion for applied AI, scalable systems, and collaborative problem‑solving.”
