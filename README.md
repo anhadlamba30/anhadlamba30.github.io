@@ -1,8 +1,3 @@
----
-title: ""
-layout: default
----
-
 # 🚀 Anhad Lamba
 **AI Full‑Stack Developer** • *Toronto, ON*  
 
